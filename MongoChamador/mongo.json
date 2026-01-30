@@ -1,0 +1,56 @@
+[
+  {
+    "id": "697be207c1f3d577a9f70da3",
+    "idArco": 16,
+    "nombreParte": "Maricon",
+    "numeroParte": 1,
+    "protagonista": "Gilipollas",
+    "usuarios": [
+      {
+        "idUsuario": 46,
+        "nombreUsuario": "Manolo",
+        "nombreStand": "Puto",
+        "tipoAtaque": "Pene"
+      },
+      {
+        "idUsuario": 47,
+        "nombreUsuario": "Manue",
+        "nombreStand": "Puta",
+        "tipoAtaque": "Polla"
+      },
+      {
+        "idUsuario": 48,
+        "nombreUsuario": "Monita",
+        "nombreStand": "Putita",
+        "tipoAtaque": "Pollita"
+      }
+    ]
+  },
+  {
+    "id": "697be207c1f3d577a9f70da4",
+    "idArco": 3,
+    "nombreParte": "Maricona",
+    "numeroParte": 2,
+    "protagonista": "Gilipollis",
+    "usuarios": [
+      {
+        "idUsuario": 7,
+        "nombreUsuario": "Manolu",
+        "nombreStand": "Putotu",
+        "tipoAtaque": "Penetu"
+      },
+      {
+        "idUsuario": 8,
+        "nombreUsuario": "Manuelu",
+        "nombreStand": "Putatu",
+        "tipoAtaque": "Pollatu"
+      },
+      {
+        "idUsuario": 9,
+        "nombreUsuario": "Monitalu",
+        "nombreStand": "Putitatu",
+        "tipoAtaque": "Pollitatu"
+      }
+    ]
+  }
+]
